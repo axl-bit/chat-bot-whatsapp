@@ -5,6 +5,6 @@ Este proyecto esta apuntando a automatizar una seríe de procesos que aun estan 
 # Setting up everything
 
 ## primeras dependencias:
- - ``` npm i express moment exceljs --save
- - ``` npm i whatsapp-web.js qrcode-terminal --save
- - ``` npm i ora chalk mime-db --save
+ - ```bash npm i express moment exceljs --save
+ - ```bash npm i whatsapp-web.js qrcode-terminal --save
+ - ```bash npm i ora chalk mime-db --save
